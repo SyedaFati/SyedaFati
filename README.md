@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatima Syed</h1>
 <h3 align="center">A passionate Software Engineer from pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&psig=AOvVaw12cPiU6LNefQzx2t_sV1Mv&ust=1694012037183000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCNDPy_Dck4EDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedafati&label=Profile%20views&color=0e75b6&style=flat" alt="syedafati" /> </p>
 
